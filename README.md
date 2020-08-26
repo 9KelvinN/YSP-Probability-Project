@@ -12,8 +12,8 @@ matter how frequently they make the bicycle exchange? Simulate this with differe
 how far they go each time they ride past each other. What happens if the two of them have different walking
 speeds, or different riding speeds?
 # Inputs
-The walking and biking speeds of friend 1 and 2
-The stopping distance
+- The walking and biking speeds of friend 1 and 2
+- The stopping distance
 # Outputs
-The optimal switching point
-Plot of the stopping point vs finishing time using MatPlotLib
+- The optimal switching point
+- Plot of the stopping point vs finishing time using MatPlotLib
