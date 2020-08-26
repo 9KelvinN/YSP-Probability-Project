@@ -1,5 +1,5 @@
 ## YSP-Probability-Project
-This project solved the Bicycle Leapfrog
+This project solved the Bicycle Leapfrog problem
 # Problem Description
 Two friends want to travel to a place 20 miles away, but they only have one bicycle between them. Either
 can walk at 2 miles an hour, or ride the bicycle at 10 miles an hour. They decide to proceed as follows: the
